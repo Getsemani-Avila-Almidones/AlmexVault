@@ -54,7 +54,7 @@
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
 - [ ] ✍️Otro: [Especificar] 
-### **5.2 - 🔁Plan de mantenimiento:** 
+### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
