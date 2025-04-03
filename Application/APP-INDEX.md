@@ -1,28 +1,21 @@
 ## Tipo de Software:
 
 - 💼 **Comercial**: Software de terceros que se adquiere bajo licencia para ser usado en la empresa.
-
 -  📊 **ERP**: Sistema integral de gestión empresarial, utilizado para administrar y automatizar diversas funciones de negocio.
-
-- ⏳ **Legacy**:** Software antiguo que sigue siendo utilizado pero que ya no recibe actualizaciones.
-
+- ⏳ **Legacy:** Software antiguo que sigue siendo utilizado pero que ya no recibe actualizaciones.
 -  🌐 **Web:** Software accesible a través de un navegador web.
-
 - 🖥️ **App de Escritorio:** Software instalado en un equipo de escritorio o terminal.
 
-### 🏢💻 Desarrollo In House: 
+### 💻 Desarrollo In House: 
 Indica si el software fue desarrollado internamente por el equipo de TI de la empresa. Si la respuesta es "Sí", significa que la solución es personalizada para la empresa.
 
 ## Plataforma (web o escritorio):
 
 - 🌍 Portal Web: Acceso a través de un navegador.
-
 -  💾 App de Escritorio: Acceso mediante una instalación local en un equipo físico.
-
 -  🌐 Web (.NET): Aplicaciones web construidas en el entorno .NET.
 
-
-| #   | Aplicación/Sistema              | Departamenmto            | Operación | Horas Totales | Uso                                                                                                                  | Tipo de Software | Desarrollo In house | Plataforma (web o escritorio)                                           | Relecancia                                                                      |
+| #   | Aplicación/Sistema              | Departamento            | Operación | Horas Totales | Uso                                                                                                                  | Tipo de Software | Desarrollo In House | Plataforma (web o escritorio)                                           | Relecancia                                                                      |
 | --- | ------------------------------- | ------------------------ | --------- | ------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 1   | Timbres de facturas             | Facturación              |           |               | Generar timbrado de facturas                                                                                         | Comercial        | No                  | Portal web (PAC)                                                        | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
 | 2   | Segurinet                       | EHS                      |           |               | Reporteo de SOR, captura de incidentes, análisis causa raíz y acciones correctivas                                   | Comercial        | No                  | Web                                                                     | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
