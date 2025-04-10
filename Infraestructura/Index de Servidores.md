@@ -6,7 +6,7 @@ Ejemplo: _dcamxvapp01_
 
 **dc**  data center  
 **AMX** "Empresa"  
-[**V** o **P**] (V: Virtual o P: Físico)  
+[**V** ** o** **P**] (V: Virtual o P: Físico)  
 **APP01** (Nombre del Servidor)
 
 | **ID/Nombre del Servidor** | **Ubicación Física**                        | **Tipo** | Entorno del Servidor: | **Propósito** | **Sistema Operativo** | 🖧**IP Privada** | 🖧**IP Pública** | **Usuario SSH/Admin** | **Puertos**               |

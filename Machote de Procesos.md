@@ -1,6 +1,6 @@
 # **Plantilla de Documento de Proceso**
 
-## 1. *Nombre del Proceso
+## 1. Nombre del Proceso
 
 Escribe aquí el nombre del proceso que se va a documentar.
 
@@ -8,15 +8,15 @@ Escribe aquí el nombre del proceso que se va a documentar.
 
 Describe brevemente el propósito de este proceso. ¿Qué se quiere lograr?
 
-## 4. *Pasos del Proceso
-| **Rol** | **Aplicativo** | **Descripción** | Resultado |
-| ------- | -------------- | --------------- | --------- |
-|         |                |                 |           |
-|         |                |                 |           |
-|         |                |                 |           |
-|         |                |                 |           |
-|         |                |                 |           |
-## 5. *Herramientas, Recursos ó Plataforma
+## 4. Pasos del Proceso
+| **Rol** | **Aplicativo** | **Descripción** | **Resultado** |
+| ------- | -------------- | --------------- | ---------     |
+|         |                |                 |               |
+|         |                |                 |               |
+|         |                |                 |               |
+|         |                |                 |               |
+|         |                |                 |               |
+## 5. Herramientas, Recursos ó Plataforma
 
 Lista las herramientas, software o materiales que se necesitan para realizar el proceso.
 
