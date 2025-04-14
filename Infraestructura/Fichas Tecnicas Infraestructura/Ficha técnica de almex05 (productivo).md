@@ -16,9 +16,9 @@
 
 ### **1.2 - 🐧Sistema Operativo:**
 
-| **Sistema operativo:**             | [Ej. Windows Server, Linux (especificar distribución), etc.] | **Versión del sistema operativo:** | [Número de versión] |
-| ---------------------------------- | ------------------------------------------------------------ | ---------------------------------- | ------------------- |
-| **Controlador de virtualización:** | [Ej. VMware ESXi, Hyper-V, Proxmox, etc.]                    |                                    |                     |
+| **Sistema operativo:**             | 🪟Windows server 2012 r2                  | **Versión del sistema operativo:** | [Número de versión] |
+| ---------------------------------- | ----------------------------------------- | ---------------------------------- | ------------------- |
+| **Controlador de virtualización:** | [Ej. VMware ESXi, Hyper-V, Proxmox, etc.] |                                    |                     |
 - **Licencias de software:** [Detalles sobre licencias de sistemas operativos, aplicaciones o servicios que utilice]
 
 ## **2 - 🛜Red y Dirección IP:**
