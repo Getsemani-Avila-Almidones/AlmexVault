@@ -1,19 +1,19 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | [Nombre completo del software]                  | **Versión:**    | [Número de versión]                                                             |
-| ------------------------ | ----------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
-| **Departamento:**        | [Nombre del departamento responsable]           | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
-| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.] | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
-| **Descripción:**         | [Breve descripción del software y su propósito] |                 |                                                                                 |
+| **Nombre del Software:** | PI                                                                                       | **Versión:**    | [Número de versión]                                                             |
+| ------------------------ | ---------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
+| **Departamento:**        | Procesos                                                                                 | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
+| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.]                                          | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Descripción:**         | Historiar datos de operación que salen de los PLC y visualizar el proceso en tiempo real |                 |                                                                                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
-- [ ] 🪟 Windows 
+- [x] 🪟 Windows 
 - [ ] 🐧 Linux 
 - [ ] 🍏 MacOS 
 
 ### **1.2 - 💿Tipo de Software:**
-- [ ] 💼 Comercial 
+- [x] 💼 Comercial 
 - [ ] 🏛️ Legado 
 - [ ] 🏢 InHouse 
 

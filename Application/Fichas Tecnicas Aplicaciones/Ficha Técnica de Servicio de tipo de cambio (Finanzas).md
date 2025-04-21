@@ -1,21 +1,21 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | [Nombre completo del software]                  | **Versión:**    | [Número de versión]                                                             |
-| ------------------------ | ----------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
-| **Departamento:**        | [Nombre del departamento responsable]           | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
-| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.] | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
-| **Descripción:**         | [Breve descripción del software y su propósito] |                 |                                                                                 |
+| **Nombre del Software:** | Servicio de tipo de cambio                                                            | **Versión:**    | [Número de versión]                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
+| **Departamento:**        | Finanzas                                                                              | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
+| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.]                                       | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Descripción:**         | Servicio de extracción y publicación en intranet de tipo de cambio al día e histórico |                 |                                                                                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
-- [ ] 🪟 Windows 
-- [ ] 🐧 Linux 
+- [x] 🪟 Windows 
+- [x] 🐧 Linux 
 - [ ] 🍏 MacOS 
 
 ### **1.2 - 💿Tipo de Software:**
 - [ ] 💼 Comercial 
-- [ ] 🏛️ Legado 
-- [ ] 🏢 InHouse 
+- [x] 🏛️ Legado 
+- [x] 🏢 InHouse 
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 

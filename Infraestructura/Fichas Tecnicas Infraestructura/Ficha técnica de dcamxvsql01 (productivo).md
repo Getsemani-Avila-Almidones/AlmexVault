@@ -1,9 +1,9 @@
 ## **1 - 📓Información General:**
 
-| **Modelo:**           | [Nombre del modelo o referencia]                                         | Fabricante:    | [Fabricante del servidor]                                                       |
-| --------------------- | ------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------- |
-| **Tipo de servidor:** | [Rack, Torre, Blade, etc.]                                               | **Ubicación:** | [Localizacion fisica del Servidor]                                              |
-| **Propósito:**        | [Uso específico del servidor, como virtualización, bases de datos, etc.] | **Priridad**   | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Modelo:**           | dcamxvsql01   | Fabricante:    | [Fabricante del servidor] |
+| --------------------- | ------------- | -------------- | ------------------------- |
+| **Tipo de servidor:** | Virtual       | **Ubicación:** | Rack                      |
+| **Propósito:**        | DBA MS_Server | **Priridad**   | 🔴 Alta  <br><br>         |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
@@ -16,9 +16,9 @@
 
 ### **1.2 - 🐧Sistema Operativo:**
 
-| **Sistema operativo:**             | [Ej. Windows Server, Linux (especificar distribución), etc.] | **Versión del sistema operativo:** | [Número de versión] |
-| ---------------------------------- | ------------------------------------------------------------ | ---------------------------------- | ------------------- |
-| **Controlador de virtualización:** | [Ej. VMware ESXi, Hyper-V, Proxmox, etc.]                    |                                    |                     |
+| **Sistema operativo:**             | Windows Server                            | **Versión del sistema operativo:** | [Número de versión] |
+| ---------------------------------- | ----------------------------------------- | ---------------------------------- | ------------------- |
+| **Controlador de virtualización:** | [Ej. VMware ESXi, Hyper-V, Proxmox, etc.] |                                    |                     |
 - **Licencias de software:** [Detalles sobre licencias de sistemas operativos, aplicaciones o servicios que utilice]
 
 ## **2 - 🛜Red y Dirección IP:**

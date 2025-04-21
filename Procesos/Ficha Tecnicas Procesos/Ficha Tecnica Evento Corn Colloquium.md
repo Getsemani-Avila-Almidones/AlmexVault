@@ -1,6 +1,6 @@
 ## 1. Nombre del Proceso
 
-Evento Corn Colloquim
+Evento Corn Colloquium
 
 ## 2. Objetivo del Proceso
 
