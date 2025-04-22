@@ -1,9 +1,5 @@
 # AlmexVault
 
-```mermaid
-
-```
-
 
 
 

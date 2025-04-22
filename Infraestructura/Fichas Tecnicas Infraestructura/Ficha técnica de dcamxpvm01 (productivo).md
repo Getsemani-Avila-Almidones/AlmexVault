@@ -1,8 +1,8 @@
 ## **1 - 📓Información General:**
 
-| **Modelo:**           | [Nombre del modelo o referencia]                                         | Fabricante:    | [Fabricante del servidor]                                                       |
+| **Modelo:**           | dcamxpvm01                                                               | Fabricante:    | [Fabricante del servidor]                                                       |
 | --------------------- | ------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------- |
-| **Tipo de servidor:** | [Rack, Torre, Blade, etc.]                                               | **Ubicación:** | [Localizacion fisica del Servidor]                                              |
+| **Tipo de servidor:** | Rack                                                                     | **Ubicación:** | virtual(site)                                                                   |
 | **Propósito:**        | [Uso específico del servidor, como virtualización, bases de datos, etc.] | **Priridad**   | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 

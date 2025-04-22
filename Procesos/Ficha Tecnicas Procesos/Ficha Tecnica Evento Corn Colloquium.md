@@ -31,7 +31,7 @@ Organizar y gestionar el evento técnico relacionado con el maíz, donde se comp
 ## 6. Documentos Relacionados
 
 - Agenda del Evento
-    
+
 - Formato de registro
-    
+
 - Presentaciones y materiales del evento

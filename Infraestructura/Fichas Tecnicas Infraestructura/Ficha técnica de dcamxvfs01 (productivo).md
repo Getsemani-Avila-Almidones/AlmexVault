@@ -1,9 +1,9 @@
 ## **1 - 📓Información General:**
 
-| **Modelo:**           | [Nombre del modelo o referencia]                                         | Fabricante:    | [Fabricante del servidor]                                                       |
-| --------------------- | ------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------------- |
-| **Tipo de servidor:** | [Rack, Torre, Blade, etc.]                                               | **Ubicación:** | [Localizacion fisica del Servidor]                                              |
-| **Propósito:**        | [Uso específico del servidor, como virtualización, bases de datos, etc.] | **Priridad**   | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Modelo:**           | dcamxvfs01           | Fabricante:    | [Fabricante del servidor]                                                       |
+| --------------------- | -------------------- | -------------- | ------------------------------------------------------------------------------- |
+| **Tipo de servidor:** | Rack                 | **Ubicación:** | [Localizacion fisica del Servidor]                                              |
+| **Propósito:**        | Archivos, Desarrollo | **Priridad**   | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
