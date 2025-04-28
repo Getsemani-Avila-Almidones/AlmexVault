@@ -3,7 +3,7 @@
 | **Modelo:**           | dcamxvdes01 | Fabricante:    | [Fabricante del servidor] |
 | --------------------- | ----------- | -------------- | ------------------------- |
 | **Tipo de servidor:** | Decomisado  | **Ubicación:** | SITE                      |
-| **Propósito:**        | Decomisado  | **Priridad**   | <br>⚠️ Decomisado         |
+| **Propósito:**        | Decomisado  | **Prioridad**  | <br>⚠️ Decomisado         |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**

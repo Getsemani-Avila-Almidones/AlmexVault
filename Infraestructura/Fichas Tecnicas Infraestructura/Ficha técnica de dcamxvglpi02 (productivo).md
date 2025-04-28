@@ -3,16 +3,21 @@
 | **Modelo:**           | dcamxvglpi02 | Fabricante:    | [Fabricante del servidor] |
 | --------------------- | ------------ | -------------- | ------------------------- |
 | **Tipo de servidor:** | Rack         | **Ubicación:** | Virtual (Site)            |
-| **Propósito:**        | Glpi         | **Priridad**   | <br>🟢 Baja  <br>         |
+| **Propósito:**        | Glpi         | **Prioridad**  | <br>🟢 Baja  <br>         |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
 
-| Procesador (CPU)    | **Fabricante:**                        | 🔹INTEL<br> | **Modelo:**                              | XEON E5-2630 |
-| ------------------- | -------------------------------------- | ----------- | ---------------------------------------- | ------------ |
-| **Memoria RAM:**    | **Tipo de memoria:**                   | DDR: 4️⃣8GB | **Configuración de los módulos:**        |              |
-| **Almacenamiento:** | **Tipo de almacenamiento:**            | 💾HDD <br>  | **Configuración RAID:**                  | ✅RAID5       |
-|                     | **Capacidad total de almacenamiento:** | 100GB       | **Total de Unidades de almacenamiento:** | [1]          |
+| **Componente**       | **Detalle**                              | **Valor**       |
+| -------------------- | ---------------------------------------- | --------------- |
+| **Procesador (CPU)** | **Fabricante:**                          | 🔹INTEL         |
+|                      | **Modelo:**                              | XEON E5-2630    |
+| **Memoria RAM**      | **Tipo de memoria:**                     | DDR4 8 GB       |
+|                      | **Configuración de los módulos:**        | No especificado |
+| **Almacenamiento**   | **Tipo de almacenamiento:**              | 💾 HDD          |
+|                      | **Configuración RAID:**                  | ✅ RAID 5        |
+|                      | **Capacidad total de almacenamiento:**   | 100 GB          |
+|                      | **Total de unidades de almacenamiento:** | 1               |
 
 ### **1.2 - 🐧Sistema Operativo:**
 

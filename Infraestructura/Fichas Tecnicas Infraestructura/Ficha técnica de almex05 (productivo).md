@@ -3,17 +3,21 @@
 | **Modelo:**           | almex05      | Fabricante:    | [Fabricante del servidor] |
 | --------------------- | ------------ | -------------- | ------------------------- |
 | **Tipo de servidor:** | Rack         | **Ubicación:** | Virtual (Site)            |
-| **Propósito:**        | IIS (ORACLE) | **Priridad**   | 🔴 Alta  <br>             |
+| **Propósito:**        | IIS (ORACLE) | **Prioridad**  | 🔴 Alta  <br>             |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
 
-| Procesador (CPU)    | **Fabricante:**                        | 🔹INTEL<br>  | **Modelo:**                              | xeon e5-2403      |
-| ------------------- | -------------------------------------- | ------------ | ---------------------------------------- | ----------------- |
-| **Memoria RAM:**:16 | **Tipo de memoria:**                   | DDR: 4       | **Configuración de los módulos:**        | 4                 |
-| **Almacenamiento:** | **Tipo de almacenamiento:**            | 💾HDD <br>   | **Configuración RAID:**                  | ✅❌<br>Raid[# Num] |
-|                     | **Capacidad total de almacenamiento:** | 1 100,1 189g | **Total de Unidades de almacenamiento:** | [2]               |
-|                     |                                        |              |                                          |                   |
+| **Componente**       | **Detalle**                              | **Valor**           |
+| -------------------- | ---------------------------------------- | ------------------- |
+| **Procesador (CPU)** | **Fabricante:**                          | 🔹INTEL             |
+|                      | **Modelo:**                              | Xeon E5-2630        |
+| **Memoria RAM**      | **Tipo de memoria:**                     | DDR4  (total 16 GB) |
+|                      | **Configuración de los módulos:**        | No especificado     |
+| **Almacenamiento**   | **Tipo de almacenamiento:**              | 💾 HDD              |
+|                      | **Configuración RAID:**                  | ✅ RAID 5            |
+|                      | **Capacidad total de almacenamiento:**   |                     |
+|                      | **Total de unidades de almacenamiento:** |                     |
 
 ### **1.2 - 🐧Sistema Operativo:**
 
@@ -28,10 +32,10 @@
 - **Protocolos soportados:** IPv4, IPv6, DHCP
 
 ## **3 - 🔐Redundancia y Seguridad:**
-- **Fuentes de alimentación redundantes:** [Sí/No]
-- **UPS (sistema de alimentación ininterrumpida):** [Si aplica, especificar capacidad]
-- **Controladores RAID:** [Especificar si incluye un controlador RAID y su configuración]    
-- **Sistemas de seguridad:** [Firewall, cifrado de datos, protección contra ataques DDoS, etc.]
+- **Fuentes de alimentación redundantes:** si
+- **UPS (sistema de alimentación ininterrumpida):** Si
+- **Controladores RAID:** si
+- **Sistemas de seguridad:** Firewall harmony
 
 ## **4 - 💻Máquinas Virtuales y Contenedores:**
 

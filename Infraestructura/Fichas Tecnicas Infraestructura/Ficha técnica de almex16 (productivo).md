@@ -3,16 +3,21 @@
 | **Modelo:**           | Almex16    | Fabricante:    | [Fabricante del servidor] |
 | --------------------- | ---------- | -------------- | ------------------------- |
 | **Tipo de servidor:** | Rack       | **Ubicación:** | Virtual (Site)            |
-| **Propósito:**        | Documentos | **Priridad**   | 🔴 Alta                   |
+| **Propósito:**        | Documentos | **Prioridad**  | 🔴 Alta                   |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
 
-| Procesador (CPU)    | **Fabricante:**                        | 🔹INTEL      | **Modelo:**                              | modelo de la CPUxeon e5-2630 |
-| ------------------- | -------------------------------------- | ------------ | ---------------------------------------- | ---------------------------- |
-| **Memoria RAM:**    | **Tipo de memoria:**                   | DDR:16gb 4️⃣ | **Configuración de los módulos:**        |                              |
-| **Almacenamiento:** | **Tipo de almacenamiento:**            | 💾HDD <br>   | **Configuración RAID:**                  | ✅❌<br>Raid[# Num]            |
-|                     | **Capacidad total de almacenamiento:** | 100gb,1.2tb  | **Total de Unidades de almacenamiento:** | [2]                          |
+| **Componente**       | **Detalle**                              | **Valor**           |
+| -------------------- | ---------------------------------------- | ------------------- |
+| **Procesador (CPU)** | **Fabricante:**                          | 🔹INTEL             |
+|                      | **Modelo:**                              | Xeon E5-2630        |
+| **Memoria RAM**      | **Tipo de memoria:**                     | DDR4  (total 16 GB) |
+|                      | **Configuración de los módulos:**        | No especificado     |
+| **Almacenamiento**   | **Tipo de almacenamiento:**              | 💾 HDD              |
+|                      | **Configuración RAID:**                  | ✅ RAID 5            |
+|                      | **Capacidad total de almacenamiento:**   | 100 GB, 1.2 TB      |
+|                      | **Total de unidades de almacenamiento:** | 2                   |
 
 ### **1.2 - 🐧Sistema Operativo:**
 

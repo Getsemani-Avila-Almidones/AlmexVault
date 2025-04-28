@@ -3,16 +3,21 @@
 | **Modelo:**           | dcamxvfs01           | Fabricante:    | [Fabricante del servidor] |
 | --------------------- | -------------------- | -------------- | ------------------------- |
 | **Tipo de servidor:** | Rack                 | **Ubicación:** | Virtual (Site)            |
-| **Propósito:**        | Archivos, Desarrollo | **Priridad**   | 🔴 Alta  <br>             |
+| **Propósito:**        | Archivos, Desarrollo | **Prioridad**  | 🔴 Alta  <br>             |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
 
-| Procesador (CPU)    | **Fabricante:**                        | 🔹INTEL<br>            | **Modelo:**                              | XEON E5-2630 |
-| ------------------- | -------------------------------------- | ---------------------- | ---------------------------------------- | ------------ |
-| **Memoria RAM:**    | **Tipo de memoria:**                   | DDR: 4️⃣16GB           | **Configuración de los módulos:**        |              |
-| **Almacenamiento:** | **Tipo de almacenamiento:**            | 💾HDD <br>             | **Configuración RAID:**                  | ✅RAID5       |
-|                     | **Capacidad total de almacenamiento:** | 2 100,2.8TB,400GB,40GB | **Total de Unidades de almacenamiento:** | 5            |
+| **Componente**       | **Detalle**                              | **Valor**                          |
+| -------------------- | ---------------------------------------- | ---------------------------------- |
+| **Procesador (CPU)** | **Fabricante:**                          | 🔹INTEL                            |
+|                      | **Modelo:**                              | XEON E5-2630                       |
+| **Memoria RAM**      | **Tipo de memoria:**                     | DDR4  (total 16 GB)                |
+|                      | **Configuración de los módulos:**        | No especificado                    |
+| **Almacenamiento**   | **Tipo de almacenamiento:**              | 💾 HDD                             |
+|                      | **Configuración RAID:**                  | ✅ RAID 5                           |
+|                      | **Capacidad total de almacenamiento:**   | 2 de 100 GB, 2.8 TB, 400 GB, 40 GB |
+|                      | **Total de unidades de almacenamiento:** | 5                                  |
 
 ### **1.2 - 🐧Sistema Operativo:**
 
@@ -27,10 +32,10 @@
 - **Protocolos soportados:** IPv4, IPv6, DHCP
 
 ## **3 - 🔐Redundancia y Seguridad:**
-- **Fuentes de alimentación redundantes:** Sí
-- **UPS (sistema de alimentación ininterrumpida):** Si 
-- **Controladores RAID:** SI
-- **Sistemas de seguridad:** Firewall, 
+- **Fuentes de alimentación redundantes:** si
+- **UPS (sistema de alimentación ininterrumpida):** Si
+- **Controladores RAID:** si
+- **Sistemas de seguridad:** Firewall harmony
 
 ## **4 - 💻Máquinas Virtuales y Contenedores:**
 
