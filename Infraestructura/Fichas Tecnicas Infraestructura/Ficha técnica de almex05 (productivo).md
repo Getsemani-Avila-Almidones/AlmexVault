@@ -1,37 +1,31 @@
 ## **1 - 📓Información General:**
 
-| **Modelo:**           | almex05      | Fabricante:    | [Fabricante del servidor]                                                       |
-| --------------------- | ------------ | -------------- | ------------------------------------------------------------------------------- |
-| **Tipo de servidor:** | Rack         | **Ubicación:** | Fisico (Site)                                                                   |
-| **Propósito:**        | IIS (ORACLE) | **Priridad**   | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Modelo:**           | almex05      | Fabricante:    | [Fabricante del servidor] |
+| --------------------- | ------------ | -------------- | ------------------------- |
+| **Tipo de servidor:** | Rack         | **Ubicación:** | Virtual (Site)            |
+| **Propósito:**        | IIS (ORACLE) | **Priridad**   | 🔴 Alta  <br>             |
 > _doc:_ [[Clasificación de Prioridades para Servidores]]
 > 
 ### **1.1 - ⚙️Hardware:**
 
-| Procesador (CPU)    | **Fabricante:**                        | 🔹INTEL<br>🔺AMD<br>🔸ARM | **Modelo:**                              | [modelo de la CPU]               |
-| ------------------- | -------------------------------------- | ------------------------- | ---------------------------------------- | -------------------------------- |
-| **Memoria RAM:**    | **Tipo de memoria:**                   | DDR: [4️⃣,5️⃣]            | **Configuración de los módulos:**        | [Número de módulos, canal, etc.] |
-| **Almacenamiento:** | **Tipo de almacenamiento:**            | 💾HDD <br>💿SSD<br>💽NVMe | **Configuración RAID:**                  | ✅❌<br>Raid[# Num]                |
-|                     | **Capacidad total de almacenamiento:** | [GB/TB]                   | **Total de Unidades de almacenamiento:** | [X]                              |
+| Procesador (CPU)    | **Fabricante:**                        | 🔹INTEL<br>  | **Modelo:**                              | xeon e5-2403      |
+| ------------------- | -------------------------------------- | ------------ | ---------------------------------------- | ----------------- |
+| **Memoria RAM:**:16 | **Tipo de memoria:**                   | DDR: 4       | **Configuración de los módulos:**        | 4                 |
+| **Almacenamiento:** | **Tipo de almacenamiento:**            | 💾HDD <br>   | **Configuración RAID:**                  | ✅❌<br>Raid[# Num] |
+|                     | **Capacidad total de almacenamiento:** | 1 100,1 189g | **Total de Unidades de almacenamiento:** | [2]               |
+|                     |                                        |              |                                          |                   |
 
 ### **1.2 - 🐧Sistema Operativo:**
 
-| **Sistema operativo:**             | 🪟Windows server 2012 r2                  | **Versión del sistema operativo:** | [Número de versión] |
-| ---------------------------------- | ----------------------------------------- | ---------------------------------- | ------------------- |
-| **Controlador de virtualización:** | [Ej. VMware ESXi, Hyper-V, Proxmox, etc.] |                                    |                     |
+| **Sistema operativo:**             | 🪟Windows server 2012 r2 | **Versión del sistema operativo:** | 6.3 |
+| ---------------------------------- | ------------------------ | ---------------------------------- | --- |
+| **Controlador de virtualización:** | fisico                   |                                    |     |
 - **Licencias de software:** [Detalles sobre licencias de sistemas operativos, aplicaciones o servicios que utilice]
 
 ## **2 - 🛜Red y Dirección IP:**
-- **Dirección IP pública/privada:** [IP asignada o rango de IPs]
-- **Configuración de DNS:** [Si aplica, especificar configuración DNS]
-- **Protocolos soportados:** [IPv4, IPv6, DHCP, etc.]
-
-### **2.1 - 🔌Catalogo Puertos Abiertos**
-| **Puerto** | **Protocolo** | **Aplicativo**                    | **Justificación de por que se usa ese puerto** |
-| ---------- | ------------- | --------------------------------- | ---------------------------------------------- |
-| 80         | HTTP          | [Aplicativo que usa la conexión ] |                                                |
-| 443        | HTTPS         |                                   |                                                |
-| 3306       | MySQL         |                                   |                                                |
+- **Dirección IP pública/privada:** PRIVADA
+- **Configuración de DNS:** 10:10:10:9/10:10:10:10
+- **Protocolos soportados:** IPv4, IPv6, DHCP
 
 ## **3 - 🔐Redundancia y Seguridad:**
 - **Fuentes de alimentación redundantes:** [Sí/No]
@@ -50,7 +44,7 @@
 | **VM-02**           | Windows Server 2019   | [X] vCPU, [X]GB RAM, [X]GB almacenamiento | Base de datos MySQL para software de tickets | Accesible solo desde la red interna     |
 | **VM-03**           | CentOS 7              | [X] vCPU, [X]GB RAM, [X]GB almacenamiento | Sistema de control de inventarios            | Conexión a base de datos de inventarios |
 | **VM-04**           | Debian 10             | [X] vCPU, [X]GB RAM, [X]GB almacenamiento | Servidor de correo interno                   | Acceso sólo a empleados internos        |
-| **VM-05**           | Windows Server 2022   | [X] vCPU, [X]GB RAM, [X]GB almacenamiento | Plataforma de CRM para ventas                | Accesible solo para el equipo de ventas |
+|                     |                       |                                           |                                              |                                         |
 
 ### **4.2 - 📁Catálogo de Contenedores:**
 
@@ -68,3 +62,4 @@
 | -------------- | ---------------------------------------------------------- | ---------- | ------------------------------------------- | ----------------------------------------- |
 | [Aplicativo]   | [Descripción]                                              | [Notas]    | [Propósito]                                 | [Notas]                                   |
 | **Intranet**   | Plataforma interna de comunicación y gestión de la empresa |            | Comunicación interna, gestión de documentos | Personalizado, accesible solo a empleados |
+|                |                                                            |            |                                             |                                           |

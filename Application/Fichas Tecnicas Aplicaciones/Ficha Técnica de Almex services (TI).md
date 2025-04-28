@@ -16,9 +16,9 @@
 - [ ] 🏢 InHouse 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-|📝 Nombre|🔢 Versión|
-|---|---|
-|Win Services|[No especificado]|
+| 📝 Nombre    | 🔢 Versión        |
+| ------------ | ----------------- |
+| Win Services | [No especificado] |
 
 ## **3 - 📃Funcionalidades Principales**
 
