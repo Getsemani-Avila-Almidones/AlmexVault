@@ -1,16 +1,16 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Portal Corn colloquium             | **Versión:**    | [Número de versión] |
-| ------------------------ | ---------------------------------- | --------------- | ------------------- |
-| **Departamento:**        | Direccion General                  | **Licencia:**   |                     |
-| **Operación:**           | 24/7                               | **Relevancia:** | 🔴 Alta  <br>       |
-| **Descripción:**         | Difusión de eventos corncolloquium |                 |                     |
+| **Nombre del Software:** | Bascula APP                             | **Versión:**    |                 |
+| ------------------------ | --------------------------------------- | --------------- | --------------- |
+| **Departamento:**        | Trafico                                 | **Licencia:**   |                 |
+| **Operación:**           | 24/7                                    | **Relevancia:** | <br>🔴 Alta<br> |
+| **Descripción:**         | Gestión de pesaje de bascula de entrada |                 |                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
 - [x] 🪟 Windows 
 - [ ] 🐧 Linux 
-- [x] 🍏 MacOS 
+- [ ] 🍏 MacOS 
 
 ### **1.2 - 💿Tipo de Software:**
 - [ ] 💼 Comercial 
@@ -19,14 +19,14 @@
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-| 📝 Nombre             | 🔢 Versión |
-| --------------------- | ---------- |
-| C# .Net               |            |
-| SQLServer             |            |
+| 📝 Nombre             | 🔢 Versión               |
+| --------------------- | ------------------------ |
+| .Net                  |                          |
+| SQLServer             |                          |
 
 
 ## **3 - 📃Funcionalidades Principales**
-1. Dirección General: Registro y Publicación de agenda de el evento  Corn colloquium
+1. Distribución: Pesar los contenedores de Producto,  materia prima y enviar los pesos a los distintos sistemas ERP y legados
 ## 4 - 🗝️Seguridad
 **Prácticas de seguridad**:
 - [ ] 🔒 Encriptación
@@ -34,7 +34,8 @@
 - [x] 🚫Ninguna 
 
 ## **5 - 🛠️Mantenimiento y Actualizaciones 🔁**
-1 vez al año a demanda
+N/A
+
 ### **5.1 - 🛠️Plan de mantenimiento:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
@@ -49,9 +50,10 @@
 - [ ] ✍️Otro: [Especificar] 
 
 ## 6. 📞Soporte y Contacto
-- **Soporte técnico**: Infraestructura
+- **Soporte técnico**: Solo disponibilidad con Infraestructura
 - **Proceso para reportar errores**: Tickets en plataforma Glpi
 
 ## 7. 🛜Conexiones y Protocolos
+
 
 

@@ -21,8 +21,9 @@
 
 ### **1.2 - 🐧Sistema Operativo:**
 
-| **Sistema operativo:** | 🪟Windows server 2012 r2 | **Versión del sistema operativo:** | 6.3 |
-| ---------------------- | ------------------------ | ---------------------------------- | --- |
+| **Sistema operativo:**             | 🪟Windows server 2012 r2 | **Versión del sistema operativo:** | 6.3 |
+| ---------------------------------- | ------------------------ | ---------------------------------- | --- |
+| **Controlador de virtualización:** | VMware                   |                                    |     |
 
 - **Licencias de software:** [Detalles sobre licencias de sistemas operativos, aplicaciones o servicios que utilice]
 
