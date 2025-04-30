@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Base de datos Oracle | **Versión:**    |               |
-| ------------------------ | -------------------- | --------------- | ------------- |
-| **Departamento:**        | Sistemas             | **Licencia:**   |               |
-| **Operación:**           | 24x7                 | **Relevancia:** | 🔴 Alta  <br> |
-| **Descripción:**         | Base de datos        |                 |               |
+| **Nombre del Software:** | Base de datos Oracle | **Versión:**       |                          |
+| ------------------------ | -------------------- | ------------------ | ------------------------ |
+| **Departamento:**        | Sistemas             | **Licencia:**      |                          |
+| **Operación:**           | 24x7                 | **Relevancia:**    | 🔴 Alta  <br>            |
+| **Descripción:**         | Base de datos        | Tipo de aplicacion | SaaS (application cloud) |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**

@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Bascula APP                             | **Versión:**    |                 |
-| ------------------------ | --------------------------------------- | --------------- | --------------- |
-| **Departamento:**        | Trafico                                 | **Licencia:**   |                 |
-| **Operación:**           | 24/7                                    | **Relevancia:** | <br>🔴 Alta<br> |
-| **Descripción:**         | Gestión de pesaje de bascula de entrada |                 |                 |
+| **Nombre del Software:** | Bascula APP                             | **Versión:**       |                  |
+| ------------------------ | --------------------------------------- | ------------------ | ---------------- |
+| **Departamento:**        | Trafico                                 | **Licencia:**      |                  |
+| **Operación:**           | 24/7                                    | **Relevancia:**    | <br>🔴 Alta<br>  |
+| **Descripción:**         | Gestión de pesaje de bascula de entrada | Tipo de aplicacion | .EXE(ejecutable) |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**

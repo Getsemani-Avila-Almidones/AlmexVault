@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Portal Corn colloquium             | **Versión:**    | [Número de versión] |
-| ------------------------ | ---------------------------------- | --------------- | ------------------- |
-| **Departamento:**        | Direccion General                  | **Licencia:**   |                     |
-| **Operación:**           | 24/7                               | **Relevancia:** | 🔴 Alta  <br>       |
-| **Descripción:**         | Difusión de eventos corncolloquium |                 |                     |
+| **Nombre del Software:** | Portal Corn colloquium             | **Versión:**       | [Número de versión] |
+| ------------------------ | ---------------------------------- | ------------------ | ------------------- |
+| **Departamento:**        | Direccion General                  | **Licencia:**      |                     |
+| **Operación:**           | 24/7                               | **Relevancia:**    | 🔴 Alta  <br>       |
+| **Descripción:**         | Difusión de eventos corncolloquium | Tipo de aplicacion | ASP.NET             |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**

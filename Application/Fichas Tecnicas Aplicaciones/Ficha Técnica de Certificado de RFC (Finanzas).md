@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Certificado de RFC                              | **Versión:**    | [Número de versión]             |
-| ------------------------ | ----------------------------------------------- | --------------- | ------------------------------- |
-| **Departamento:**        | Finanzas                                        | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.] |
-| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.] | **Relevancia:** | 🟡 Media                        |
-| **Descripción:**         | Certificado para acceso y timbrado ante el SAT  |                 |                                 |
+| **Nombre del Software:** | Certificado de RFC                              | **Versión:**       | [Número de versión]             |
+| ------------------------ | ----------------------------------------------- | ------------------ | ------------------------------- |
+| **Departamento:**        | Finanzas                                        | **Licencia:**      | [Ej. GPL, MIT, Comercial, etc.] |
+| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.] | **Relevancia:**    | 🟡 Media                        |
+| **Descripción:**         | Certificado para acceso y timbrado ante el SAT  | Tipo de aplicacion |                                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**

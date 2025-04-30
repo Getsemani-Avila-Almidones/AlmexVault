@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | CDO Legal                                                                     | **Versión:**    |                    |
-| ------------------------ | ----------------------------------------------------------------------------- | --------------- | ------------------ |
-| **Departamento:**        | Legal                                                                         | **Licencia:**   |                    |
-| **Operación:**           | 24× 7                                                                         | **Relevancia:** | 🔴 Alta  <br> <br> |
-| **Descripción:**         | Sistema para flujos de aprobación y firmas de contratos legales y comerciales |                 |                    |
+| **Nombre del Software:** | CDO Legal                                                                     | **Versión:**       |                          |
+| ------------------------ | ----------------------------------------------------------------------------- | ------------------ | ------------------------ |
+| **Departamento:**        | Legal                                                                         | **Licencia:**      |                          |
+| **Operación:**           | 24× 7                                                                         | **Relevancia:**    | 🔴 Alta  <br> <br>       |
+| **Descripción:**         | Sistema para flujos de aprobación y firmas de contratos legales y comerciales | Tipo de aplicacion | SaaS (application cloud) |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**

@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Almex Services                                                                                                              | **Versión:**    | [Número de versión] |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------- |
-| **Departamento:**        | TI                                                                                                                          | **Licencia:**   | [No especificado]   |
-| **Operación:**           | [No especificado]                                                                                                           | **Relevancia:** | 🔴 Alta             |
-| **Descripción:**         | Servicio de Windows para almacenamiento de documentos en servidores internos, utilizado por interfaces en arquitectura SOA. | Tipo de APP     |                     |
+| **Nombre del Software:** | Almex Services                                                                                                              | **Versión:**       | [Número de versión] |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------- |
+| **Departamento:**        | TI                                                                                                                          | **Licencia:**      | [No especificado]   |
+| **Operación:**           | [No especificado]                                                                                                           | **Relevancia:**    | 🔴 Alta             |
+| **Descripción:**         | Servicio de Windows para almacenamiento de documentos en servidores internos, utilizado por interfaces en arquitectura SOA. | Tipo de aplicacion | Windows services    |
 
 ### **1.1 - 💻Plataforma/s soportada/s**
 - [x] 🪟 Windows 

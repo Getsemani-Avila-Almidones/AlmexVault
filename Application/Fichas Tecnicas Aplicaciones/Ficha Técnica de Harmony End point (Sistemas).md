@@ -36,11 +36,6 @@
 ## 4 - 🗝️Seguridad
 **Prácticas de seguridad**:
 - [ ] 🔒 Encriptación
-	- [ ] 💺Reposo
-	- [ ] 🚗Transito
-	- [ ] ↔️Simétrica
-	- [ ] 🔰Asimétrica
-	- **Método:** [AES, 3DES, RC4, RSA]
 - [ ] 🔑 Autenticación 
 - [ ] 🚫Ninguna 
 **Gestión de vulnerabilidades**: [Cómo se manejan las vulnerabilidades]
