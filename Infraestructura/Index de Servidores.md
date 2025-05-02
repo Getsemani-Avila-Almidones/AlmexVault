@@ -21,4 +21,5 @@ Ejemplo: _dcamxvapp01_
 | dcamxvdes01                | Decomisados                                 | N/A      | N/A                   | N/A           | N/A                   | N/A              | N/A              | N/A                   | N/A                       |
 | almex05                    | Fisico(?)                                   | Rack     | **Productivo**        | IIS (ORACLE)  | 🪟win ser 2012 r2     | 182.169.86.250   | 201.163.93.2     | SSO                   | S80?:8080?3360?           |
 | almex16                    | virtual(?)                                  | Rack     | **Productivo**        | Documentos    | 🪟win ser 2012 r2     | 10.10.10.16      | N/A              | SSO                   | ?                         |
+| phoenix?                   | linux                                       | Oracle   | prod                  | ?             | ?                     | ?                | XXX.XXX.114.231  | SSH                   | ?                         |
 
