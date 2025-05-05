@@ -1,6 +1,6 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Portal de Concur           | **Versión:**    | [Número de versión]    |
+| **Nombre del Software:** | Portal de Concur           | **Versión:**    |                        |
 | ------------------------ | -------------------------- | --------------- | ---------------------- |
 | **Departamento:**        | Finanzas                   | **Licencia:**   | Comercial              |
 | **Operación:**           | 24/7                       | **Relevancia:** | <br>🟡 Media  <br><br> |
@@ -10,7 +10,7 @@
 ### **1.1 - 💻Plataforma/s soportada/s**
 - [x] 🪟 Windows 
 - [ ] 🐧 Linux 
-- [ ] 🍏 MacOS 
+- [x] 🍏 MacOS 
 
 ### **1.2 - 💿Tipo de Software:**
 - [x] 💼 Comercial 
@@ -19,8 +19,9 @@
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-| 📝 Nombre  | 🔢 Versión |
-| ---------- | ---------- |
+| 📝 Nombre     | 🔢 Versión |
+| ------------- | ---------- |
+| Integraciones |            |
 
 
 
@@ -29,7 +30,7 @@
 
 ## 4 - 🗝️Seguridad
 **Prácticas de seguridad**:
-- [ ] 🔒 Encriptación
+- [x] 🔒 Encriptación
 - [x] 🔑 Autenticación 
 - [ ] 🚫Ninguna 
 ## **5 - 🛠️Mantenimiento y Actualizaciones 🔁**
