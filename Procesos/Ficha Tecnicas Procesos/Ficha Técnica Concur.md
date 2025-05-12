@@ -1,5 +1,3 @@
-# **Plantilla de Documento de Proceso**
-
 ## 1. Nombre del Proceso
 
 ## 2. Objetivo del Proceso
@@ -17,5 +15,3 @@
 ## 4. Herramientas, Recursos ó Plataforma
 
 ## 5. Indicadores de Éxito
-
-## 6. Documentos Relacionados

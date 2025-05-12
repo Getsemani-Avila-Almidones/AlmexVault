@@ -1,81 +1,72 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Oracle ERP Cloud                                  | **Versión:**    | [Número de versión]                                                             |
-| ------------------------ | ------------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
-| **Departamento:**        | PIO                                               | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
-| **Operación:**           | 24 X 7                                            | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
-| **Descripción:**         | ERP (Gestionar actividades diarias empresariales) |                 |                                                                                 |
+| **Nombre del Software:** | Oracle ERP Cloud                                  | **Versión:**       | 25A(11.13)    |
+| ------------------------ | ------------------------------------------------- | ------------------ | ------------- |
+| **Departamento:**        | Sistemas                                          | **Licencia:**      | Oracle        |
+| **Operación:**           | 24 X 7                                            | **Relevancia:**    | 🔴 Alta  <br> |
+| **Descripción:**         | ERP (Gestionar actividades diarias empresariales) | Tipo de Aplicacion |               |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
-- [ ] 🪟 Windows 
+- [x] 🪟 Windows 
 - [ ] 🐧 Linux 
-- [ ] 🍏 MacOS 
+- [x] 🍏 MacOS 
 
 ### **1.2 - 💿Tipo de Software:**
-- [ ] 💼 Comercial 
+- [x] 💼 Comercial 
 - [ ] 🏛️ Legado 
 - [ ] 🏢 InHouse 
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-| 📝 Nombre             | 🔢 Versión               |
-| --------------------- | ------------------------ |
-| Framework o Librerías | 1.0.2v (Build: 19911128) |
-| C# .Net               | 4.5.2                    |
-| SQLServer             | 13.0.7050.2              |
-| Postgres              | 17.4                     |
+| 📝 Nombre | 🔢 Versión |
+| --------- | ---------- |
+|           |            |
+
 
 ## **3 - 📃Funcionalidades Principales**
-1. Compras: [Descripción]
-2. Ventas: [Descripción]
-3. Almacén: [Descripción]
-4. Finanzas: [Descripción]
-5. Seguridad: [Descripción]
+1. Facturación
+2. Ventas
+3. Compras
+4. Contraloría
+5. Cobros
+6. Inventarios
+7. Contratos
+8. Calidad
+9. Mantenimiento
+10. Almacén
+
 
 ## 4 - 🗝️Seguridad
 **Prácticas de seguridad**:
 - [ ] 🔒 Encriptación
-	- [ ] 💺Reposo
-	- [ ] 🚗Transito
-	- [ ] ↔️Simétrica
-	- [ ] 🔰Asimétrica
-	- **Método:** [AES, 3DES, RC4, RSA]
-- [ ] 🔑 Autenticación 
+- [x] 🔑 Autenticación 
 - [ ] 🚫Ninguna 
-**Gestión de vulnerabilidades**: [Cómo se manejan las vulnerabilidades]
 
 ## **5 - 🛠️Mantenimiento y Actualizaciones 🔁**
-[Cómo se gestionan actualizaciones]
+Cada 3 meses (UPDATE)
 
 ### **5.1 - 🛠️Plan de mantenimiento:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: Cuando lo pida almex
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: cada 3meses
 
 ## 6. 📞Soporte y Contacto
-- **Soporte técnico**: [Información de contacto o foros de soporte]
-- **Documentación adicional**: [Enlaces a manuales o recursos adicionales]
-- **Proceso para reportar errores**: [Cómo reportar errores]
+- **Soporte técnico**: Services Request
+- **Proceso para reportar errores**: Mediante Ticket a oracle
 
 ## 7. 🛜Conexiones y Protocolos
 
-| Check | **Tipo de Conexión** | **Protocolo** | **Puerto/Tecnología**           | **🔒 Seguridad**       | **Descripción**                                           | **Uso Común**                                   |
-| ----- | -------------------- | ------------- | ------------------------------- | ---------------------- | --------------------------------------------------------- | ----------------------------------------------- |
-| ✅❌    | API (REST / SOAP)    | HTTP/HTTPS    | 80 (HTTP), 443 (HTTPS)          | Autenticación, SSL/TLS | Comunicación entre sistemas a través de solicitudes HTTP. | ✅ Integración entre aplicaciones.               |
-| ✅❌    | FTP/SFTP             | FTP/FTPS/SFTP | 21 (FTP), 22 (SFTP/FTPS)        | SSL/TLS                | Transferencia de archivos entre sistemas.                 | ✅ Compartir archivos entre servidores.          |
-| ✅❌    | WebSocket            | WebSocket     | 80 (HTTP), 443 (HTTPS)          | WSS (Seguro)           | Comunicación bidireccional en tiempo real.                | ✅ Chats, juegos en línea.                       |
-| ✅❌    | WebHook              | HTTP/HTTPS    | 80 (HTTP), 443 (HTTPS)          | WSS (Seguro)           |                                                           | ✅                                               |
-| ✅❌    | MQTT                 | TCP           | 1883 (No seguro), 8883 (Seguro) | TLS/SSL                | Comunicación ligera para IoT (Internet de las Cosas).     | ✅ Comunicación en dispositivos IoT.             |
-| ✅❌    | AMQP                 | TCP           | 5672 (AMQP), 5671 (AMQPS)       | SSL/TLS                | Mensajería entre sistemas distribuidos.                   | ✅ Comunicación entre microservicios.            |
-| ✅❌    | RDP                  | RDP           | 3389                            | SSL/TLS, Credenciales  | Acceso remoto a sistemas Windows.                         | ✅ Acceso remoto a escritorios de Windows.       |
-| ✅❌    | SSH                  | SSH           | 22                              | SSH Key, Contraseña    | Administración remota de servidores.                      | ✅ Administración de servidores de forma remota. |
+| Check | **Tipo de Conexión** | **Protocolo** | **Puerto/Tecnología**  | **🔒 Seguridad**       | **Descripción**                                           | **Uso Común**                     |
+| ----- | -------------------- | ------------- | ---------------------- | ---------------------- | --------------------------------------------------------- | --------------------------------- |
+| ✅     |                      | HTTPS         | 80 (HTTP), 443 (HTTPS) | Autenticación, SSL/TLS | Comunicación entre sistemas a través de solicitudes HTTP. | ✅ Integración entre aplicaciones. |
+
 

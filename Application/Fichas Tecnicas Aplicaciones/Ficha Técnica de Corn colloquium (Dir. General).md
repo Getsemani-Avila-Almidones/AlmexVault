@@ -40,13 +40,13 @@
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: a demanda
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: a demanda
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: Infraestructura

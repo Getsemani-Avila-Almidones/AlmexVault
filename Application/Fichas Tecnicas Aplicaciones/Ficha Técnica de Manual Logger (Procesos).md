@@ -41,13 +41,13 @@ Ninguna
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [x] ✍️Otro: [Ninguna] 
+- [x] ✍️Otro: Ninguna
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [x] ✍️Otro: [Ninguna] 
+- [x] ✍️Otro: Ninguna
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: Disponibilidad de servicio con infraestructura

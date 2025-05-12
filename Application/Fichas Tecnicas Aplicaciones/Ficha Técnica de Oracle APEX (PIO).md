@@ -1,6 +1,6 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Oracle APEX                                                   | **Versión:**       |                          |
+| **Nombre del Software:** | Oracle APEX                                                   | **Versión:**       | 21.2                     |
 | ------------------------ | ------------------------------------------------------------- | ------------------ | ------------------------ |
 | **Departamento:**        | Sistemas                                                      | **Licencia:**      | Comercial                |
 | **Operación:**           | 24 X 7                                                        | **Relevancia:**    | 🔴 Alta  <br>            |
@@ -19,9 +19,9 @@
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-| 📝 Nombre            | 🔢 Versión |
-| -------------------- | ---------- |
-| Oracle base de datos |            |
+| 📝 Nombre        | 🔢 Versión |
+| ---------------- | ---------- |
+| WSDL (servicios) |            |
 
 
 ## **3 - 📃Funcionalidades Principales**
@@ -44,18 +44,18 @@ Con Proveedor
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [x] ✍️Otro: Proveedor
+- [x] ✍️Otro: Cuando almex lo indique
 
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [x] ✍️Otro: Especificar
+- [x] ✍️Otro: Si se requiere actualizar si no funciona alguna tecnologia
 
 ## 6. 📞Soporte y Contacto
-- **Soporte técnico**: Con Proveedor
-- **Proceso para reportar errores**: Con Proveedor
+- **Soporte técnico**: Con Oracle
+- **Proceso para reportar errores**: SR(TICKET)
 
 ## 7. 🛜Conexiones y Protocolos
 

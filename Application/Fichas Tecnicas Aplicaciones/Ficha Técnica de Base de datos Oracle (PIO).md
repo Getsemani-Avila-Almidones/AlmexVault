@@ -46,13 +46,13 @@ Con Proveedor externo
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: Cuando lo pida almex
+- [x] ✍️Otro: Cuando lo pida almex
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: Cada 3 meses
+- [x] ✍️Otro: Cada 3 meses
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: Proveedor externo

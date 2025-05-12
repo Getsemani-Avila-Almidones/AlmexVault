@@ -38,13 +38,13 @@
 - **Sistemas de seguridad:** Firewall harmony
 
 ## **4 - 💻Máquinas Virtuales y Contenedores:**
-
+N/A
 ### **4.1 - 🗂️Catálogo de Maquinas Virtuales:**
 
-
+N/A
 
 ### **4.2 - 📁Catálogo de Contenedores:**
-
+N/A
 
 ## **5 - 💿Aplicativos (Software Comercial o Legados) Corriendo en el Servidor:**
 

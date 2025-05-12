@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | PI                                                                                       | **Versión:**    | [Número de versión]                                                             |
-| ------------------------ | ---------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
-| **Departamento:**        | Procesos                                                                                 | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
-| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.]                                          | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
-| **Descripción:**         | Historiar datos de operación que salen de los PLC y visualizar el proceso en tiempo real |                 |                                                                                 |
+| **Nombre del Software:** | PI                                                                                       | **Versión:**       | [Número de versión]                                                             |
+| ------------------------ | ---------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------- |
+| **Departamento:**        | Procesos                                                                                 | **Licencia:**      | [Ej. GPL, MIT, Comercial, etc.]                                                 |
+| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.]                                          | **Relevancia:**    | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Descripción:**         | Historiar datos de operación que salen de los PLC y visualizar el proceso en tiempo real | Tipo de Aplicacion |                                                                                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
@@ -19,12 +19,10 @@
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-| 📝 Nombre             | 🔢 Versión               |
-| --------------------- | ------------------------ |
-| Framework o Librerías | 1.0.2v (Build: 19911128) |
-| C# .Net               | 4.5.2                    |
-| SQLServer             | 13.0.7050.2              |
-| Postgres              | 17.4                     |
+| 📝 Nombre | 🔢 Versión |
+| --------- | ---------- |
+|           |            |
+
 
 ## **3 - 📃Funcionalidades Principales**
 1. Compras: [Descripción]
@@ -36,14 +34,9 @@
 ## 4 - 🗝️Seguridad
 **Prácticas de seguridad**:
 - [ ] 🔒 Encriptación
-	- [ ] 💺Reposo
-	- [ ] 🚗Transito
-	- [ ] ↔️Simétrica
-	- [ ] 🔰Asimétrica
-	- **Método:** [AES, 3DES, RC4, RSA]
 - [ ] 🔑 Autenticación 
 - [ ] 🚫Ninguna 
-**Gestión de vulnerabilidades**: [Cómo se manejan las vulnerabilidades]
+
 
 ## **5 - 🛠️Mantenimiento y Actualizaciones 🔁**
 [Cómo se gestionan actualizaciones]
@@ -63,7 +56,6 @@
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: [Información de contacto o foros de soporte]
-- **Documentación adicional**: [Enlaces a manuales o recursos adicionales]
 - **Proceso para reportar errores**: [Cómo reportar errores]
 
 ## 7. 🛜Conexiones y Protocolos

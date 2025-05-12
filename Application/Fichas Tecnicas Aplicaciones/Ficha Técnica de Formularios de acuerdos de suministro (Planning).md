@@ -41,13 +41,13 @@ Ninguna
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [x] ✍️Otro: [nunguna] 
+- [x] ✍️Otro: ninguna
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [x] ✍️Otro: [ninguna] 
+- [x] ✍️Otro: ninguna
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: Soporte de APPS
