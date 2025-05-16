@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | ConPaq                                             | **Versión:**    | [Número de versión] |
-| ------------------------ | -------------------------------------------------- | --------------- | ------------------- |
-| **Departamento:**        | Finanzas                                           | **Licencia:**   | Comercia            |
-| **Operación:**           | Ocasional                                          | **Relevancia:** | <br>🟢 Baja  <br>   |
-| **Descripción:**         | App alterna para timbrado de comprobantes fiscales |                 |                     |
+| **Nombre del Software:** | ConPaq                                             | **Versión:**       | [Número de versión] |
+| ------------------------ | -------------------------------------------------- | ------------------ | ------------------- |
+| **Departamento:**        | Finanzas                                           | **Licencia:**      | Comercia            |
+| **Operación:**           | Ocasional                                          | **Relevancia:**    | <br>🟢 Baja  <br>   |
+| **Descripción:**         | App alterna para timbrado de comprobantes fiscales | Tipo de aplicacion |                     |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
@@ -41,13 +41,13 @@ Con Proveedor
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: Proveedor
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro:Proveedor
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: Infraestructura y proveedor

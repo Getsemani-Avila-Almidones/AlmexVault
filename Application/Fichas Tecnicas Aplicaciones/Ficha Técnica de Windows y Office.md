@@ -3,7 +3,7 @@
 | **Nombre del Software:** | Windows y Office                                                        | **Versión:**    | [Número de versión]                                                             |
 | ------------------------ | ----------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
 | **Departamento:**        | Sistemas                                                                | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
-| **Operación:**           | [Ej. 8.5h × 5d, 24h × 7d, uso esporádico, etc.]                         | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Operación:**           |                                                                         | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
 | **Descripción:**         | Portal web y conjunto de aplicaciones de escritorio y sistema operativo |                 |                                                                                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 

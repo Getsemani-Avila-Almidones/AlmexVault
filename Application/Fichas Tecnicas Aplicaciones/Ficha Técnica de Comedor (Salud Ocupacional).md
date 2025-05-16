@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Comedor                           | **Versión:**    | [Número de versión]             |
-| ------------------------ | --------------------------------- | --------------- | ------------------------------- |
-| **Departamento:**        | Salud ocupacional                 | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.] |
-| **Operación:**           | 24x7                              | **Relevancia:** | <br>🟡 Media  <br>              |
-| **Descripción:**         | Registro de consumos alimenticios |                 |                                 |
+| **Nombre del Software:** | Comedor                           | **Versión:**       | [Número de versión]             |
+| ------------------------ | --------------------------------- | ------------------ | ------------------------------- |
+| **Departamento:**        | Salud ocupacional                 | **Licencia:**      | [Ej. GPL, MIT, Comercial, etc.] |
+| **Operación:**           | 24x7                              | **Relevancia:**    | <br>🟡 Media  <br>              |
+| **Descripción:**         | Registro de consumos alimenticios | Tipo de aplicacion | SaaS (application cloud)        |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**

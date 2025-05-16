@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Base de datos Oracle | **Versión:**    |               |
-| ------------------------ | -------------------- | --------------- | ------------- |
-| **Departamento:**        | Sistemas             | **Licencia:**   |               |
-| **Operación:**           | 24x7                 | **Relevancia:** | 🔴 Alta  <br> |
-| **Descripción:**         | Base de datos        |                 |               |
+| **Nombre del Software:** | Base de datos Oracle | **Versión:**       | 25A(11.13)               |
+| ------------------------ | -------------------- | ------------------ | ------------------------ |
+| **Departamento:**        | Sistemas             | **Licencia:**      | Oracle                   |
+| **Operación:**           | 24x7                 | **Relevancia:**    | 🔴 Alta  <br>            |
+| **Descripción:**         | Base de datos        | Tipo de aplicacion | SaaS (application cloud) |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
@@ -19,9 +19,9 @@
 
 ## **2 - ⚙️Tecnologías Utilizadas**
 
-| 📝 Nombre | 🔢 Versión |
-| --------- | ---------- |
-| Oracle    |            |
+| 📝 Nombre   | 🔢 Versión |
+| ----------- | ---------- |
+| Oracle OTBI | 25A(11.13) |
 
 
 ## **3 - 📃Funcionalidades Principales**
@@ -46,13 +46,13 @@ Con Proveedor externo
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: Cuando lo pida almex
 ### **5.2 - 🔁Plan de Actualización:** 
 **Frecuencia de actualizaciones**:
 - [ ] 🔄Semanal 
 - [ ] 📅Mensual 
 - [ ] 🗓️Anual 
-- [ ] ✍️Otro: [Especificar] 
+- [x] ✍️Otro: Cada 3 meses
 
 ## 6. 📞Soporte y Contacto
 - **Soporte técnico**: Proveedor externo

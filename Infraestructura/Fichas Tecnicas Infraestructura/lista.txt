@@ -1,0 +1,12 @@
+Ficha t‚cnica de almex05 (productivo).md
+Ficha t‚cnica de almex16 (productivo).md
+Ficha t‚cnica de dcamxpvm01 (productivo).md
+Ficha t‚cnica de dcamxpvm02 (productivo).md
+Ficha t‚cnica de dcamxvapp01 (productivo).md
+Ficha t‚cnica de dcamxvdes01 (Desarrollo).md
+Ficha t‚cnica de dcamxvdes01 (Desarrollo)_.md
+Ficha t‚cnica de dcamxvfs01 (productivo).md
+Ficha t‚cnica de dcamxvglpi02 (productivo).md
+Ficha t‚cnica de dcamxvsql01 (productivo).md
+Ficha t‚cnica de Phoenix.md
+lista.txt

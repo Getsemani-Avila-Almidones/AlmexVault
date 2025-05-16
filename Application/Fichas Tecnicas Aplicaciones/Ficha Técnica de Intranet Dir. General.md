@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Intranet                                                        | **Versión:**    | [Número de versión]                                                             |
-| ------------------------ | --------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------- |
-| **Departamento:**        | Dir. General                                                    | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.]                                                 |
-| **Operación:**           | 8.5 X 5                                                         | **Relevancia:** | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
-| **Descripción:**         | Difusión interna de información, comunicados, temas relevantes. |                 |                                                                                 |
+| **Nombre del Software:** | Intranet                                                        | **Versión:**       | [Número de versión]                                                             |
+| ------------------------ | --------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------- |
+| **Departamento:**        | Dir. General                                                    | **Licencia:**      | [Ej. GPL, MIT, Comercial, etc.]                                                 |
+| **Operación:**           | 8.5 X 5                                                         | **Relevancia:**    | 🔴 Alta  <br>🟡 Media  <br>🟢 Baja  <br>⚫ Obsoleto  <br>⚠️ A punto de decomisar |
+| **Descripción:**         | Difusión interna de información, comunicados, temas relevantes. | Tipo de Aplicacion |                                                                                 |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
@@ -36,11 +36,6 @@
 ## 4 - 🗝️Seguridad
 **Prácticas de seguridad**:
 - [ ] 🔒 Encriptación
-	- [ ] 💺Reposo
-	- [ ] 🚗Transito
-	- [ ] ↔️Simétrica
-	- [ ] 🔰Asimétrica
-	- **Método:** [AES, 3DES, RC4, RSA]
 - [ ] 🔑 Autenticación 
 - [ ] 🚫Ninguna 
 **Gestión de vulnerabilidades**: [Cómo se manejan las vulnerabilidades]

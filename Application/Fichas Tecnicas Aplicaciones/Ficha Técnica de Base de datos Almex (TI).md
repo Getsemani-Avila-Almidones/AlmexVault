@@ -1,10 +1,10 @@
 ## **1 - 📓Información General:**
 
-| **Nombre del Software:** | Base de datos interna de Almex                 | **Versión:**    | [Número de versión]             |
-| ------------------------ | ---------------------------------------------- | --------------- | ------------------------------- |
-| **Departamento:**        | TI                                             | **Licencia:**   | [Ej. GPL, MIT, Comercial, etc.] |
-| **Operación:**           | 24x7                                           | **Relevancia:** | <br>🔴 Alta<br>                 |
-| **Descripción:**         | Base de datos interna para manejar información |                 |                                 |
+| **Nombre del Software:** | Base de datos interna de Almex                 | **Versión:**       | [Número de versión]             |
+| ------------------------ | ---------------------------------------------- | ------------------ | ------------------------------- |
+| **Departamento:**        | TI                                             | **Licencia:**      | [Ej. GPL, MIT, Comercial, etc.] |
+| **Operación:**           | 24x7                                           | **Relevancia:**    | <br>🔴 Alta<br>                 |
+| **Descripción:**         | Base de datos interna para manejar información | Tipo de aplicacion | .EXE(ejecutable)                |
 > _doc:_ [[Clasificación de Relevancia para Aplicaciones o Software]]
 
 ### **1.1 - 💻Plataforma/s soportada/s**
