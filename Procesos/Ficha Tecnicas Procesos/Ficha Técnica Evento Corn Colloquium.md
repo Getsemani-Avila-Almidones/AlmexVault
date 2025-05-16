@@ -1,34 +1,38 @@
-## 1. Nombre del Proceso
+## **1. Identificación del Proceso**
 
-Evento Corn Colloquium
+**Nombre:** Evento Corn Colloquium
 
-## 2. Objetivo del Proceso
+## **2. Finalidad del Proceso**
 
-Organizar y gestionar el evento COMERCIAL  relacionado con el maíz, donde se comparten conocimientos, avances o resultados del sector, dirigido a especialistas, investigadores y actores clave del área agrícola.
+Organizar y gestionar el evento comercial relacionado con el maíz, donde se comparten conocimientos, avances o resultados del sector, dirigido a especialistas, investigadores y actores clave del área agrícola.
 
-## 3. Pasos del Proceso
- La solicitud de actualización por parte coordinador de dirección general del portal web con la información del evento de el año actual previamente autorizada por dirección general 
- El mantenimiento del desarrollo de acuerdo a los requerimientos de la solicitud de actualización del portal web
- Mantenimiento del reporte de registros del evento
- Liberación de los cambios en ambiente de pruebas 
- Pruebas funcionales con el usuario  solicitante del evento
- Liberación de los cambios en producción
+## **3. Descripción del Procedimiento**
 
-| **Rol**                          | **Aplicativo**         | **Descripción**                                                  | **Resultado**                          |
-| -------------------------------- | ---------------------- | ---------------------------------------------------------------- | -------------------------------------- |
-| Dirección General                | —                      | Supervisa y aprueba la organización del evento.                  | Aprobación del evento.                 |
-| Coordinador de Dirección general | —                      | Responsable principal de la coordinación y ejecución del evento. | Evento planificado y ejecutado.        |
-| Participantes                    | Portal Corn Colloquium | Se registran y consultan la agenda del evento en el portal.      | Registro confirmado y agenda revisada. |
-| Coordinación Técnica             | —                      | Define temas, ponentes y estructura del contenido técnico.       | Programa técnico validado.             |
-| Comunicación Interna             | Correos                | Difunde la convocatoria y recordatorios del evento.              | Participación informada.               |
+La solicitud de actualización es realizada por el coordinador de Dirección General del portal web con la información del evento del año actual, previamente autorizada por Dirección General.  
+Se realiza el mantenimiento del desarrollo de acuerdo con los requerimientos de dicha solicitud de actualización del portal web.  
+Se lleva a cabo el mantenimiento del reporte de registros del evento.  
+Los cambios son liberados en el ambiente de pruebas.  
+Se realizan pruebas funcionales con el usuario solicitante del evento.  
+Posteriormente, se liberan los cambios en el ambiente de producción.
 
-## 4. Herramientas, Recursos ó Plataforma
+|**Rol**|**Aplicativo**|**Descripción**|**Resultado Esperado**|
+|---|---|---|---|
+|Dirección General|—|Supervisa y otorga la aprobación formal para la ejecución del evento.|Evento aprobado conforme a lineamientos.|
+|Coordinador de Dirección General|—|Lidera la planificación, coordinación y ejecución general del evento.|Evento organizado y ejecutado exitosamente.|
+|Especialista de Soporte|Portal Corn Colloquium|Ejecuta la actualización del contenido del portal según lo solicitado.|Información actualizada y publicada en portal.|
+|Participantes|Portal Corn Colloquium|Realizan el registro y consulta de la agenda del evento a través del portal.|Registro completado y agenda validada.|
+|Coordinación Técnica|—|Define los contenidos técnicos, selecciona ponentes y estructura la programación.|Programa técnico estructurado y aprobado.|
+|Comunicación Interna|Correo electrónico|Gestiona la difusión de convocatorias e información relevante del evento.|Participantes informados de manera oportuna.|
 
-- Portal Corn Colloquim (Portal web)
-- Correo electrónico
-- Material Digital (invitaciones, agenda, etc.)
 
-## 5. Indicadores de Éxito
+## **4. Herramientas, Recursos, Plataforma ó Servidor**
+
+
+- Plataforma: Portal Corn Colloquim (Portal web)
+- Herramienta: Correo electrónico
+- Recurso: Material Digital (invitaciones, agenda, etc.)
+
+## **5. Indicadores de Éxito
 
 - Reporte de registro de participantes.
 - Correo de confirmación y agenda en pdf.

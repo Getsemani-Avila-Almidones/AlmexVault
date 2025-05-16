@@ -2,7 +2,7 @@
 
 ---
 
-###  **Datos Generales del Reporte**
+
 
 | **Campo**                      | **Descripción** |
 | ------------------------------ | --------------- |
