@@ -9,9 +9,9 @@ Trasladar y convertir los extractos de Concur en registros de facturas dentro de
 ## **3. Descripción del Procedimiento
 
  Obtener el extracto o reporte del portal de Concur (proporcionado por el usuario encargado del proceso).
-    
+
 Trasladar el extracto al disco C de la computadora de Ernesto, ubicada físicamente en el gabinete de la oficina de infraestructura (archivero de Santiago).
-    
+
 Al llegar el archivo, se ejecuta manualmente un programa que envía el archivo por HTTPS (POST) a la API del OTM.
 
 |**Rol**|**Aplicativo**|**Descripción**|**Resultado**|

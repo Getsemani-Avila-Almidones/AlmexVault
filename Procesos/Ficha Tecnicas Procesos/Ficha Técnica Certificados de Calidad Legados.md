@@ -17,16 +17,16 @@ El sistema **SOA** transforma un PDF de acuerdo con las plantillas configuradas 
 Se aloja el PDF del certificado de calidad.  
 El operador puede consultar y descargar el certificado desde el portal **eAlmex**.
 
-| **Rol** | **Aplicativo** | **Descripción** | **Resultado** |
-| ------- | -------------- | --------------- | ------------- |
-|         |                |                 |               |
-|         |                |                 |               |
-|         |                |                 |               |
-|         |                |                 |               |
-|         |                |                 |               |
-
 ## **4. Herramientas, Recursos, Plataforma ó Servidor**
-
+| **Rol**                  | **Aplicativo**       | **Descripción**                                                   | **Resultado**                                |
+| ------------------------ | -------------------- | ----------------------------------------------------------------- | -------------------------------------------- |
+| Operador de distribución | Portal eAlmex        | Ingresa al sistema y consulta una orden de embarque               | Inicio del proceso de emisión de certificado |
+| Sistema eAlmex           | eAlmex               | Valida el pesaje y corrige automáticamente si está fuera de rango | Pesaje validado o corregido                  |
+| Operador de distribución | eAlmex               | Agrega sellos y lotes, y envía la solicitud del certificado       | Envío de solicitud de certificado            |
+| Sistema eAlmex           | eAlmex / API         | Envía información actualizada al ERP Oracle (API – por confirmar) | Actualización de datos de pesaje en el ERP   |
+| Sistema ERP              | Oracle ERP / OTBI    | Extrae los datos mediante OTBI                                    | Información disponible para consulta en SOA  |
+| Sistema SOA              | SOA / Almex Services | Genera el PDF del certificado y lo almacena                       | Certificado generado y alojado               |
+| Operador de distribución | Portal eAlmex        | Consulta y descarga el certificado de calidad                     | Acceso al certificado en formato PDF         |
 
 - **Plataforma:** ERP
 - **Herramienta:** API (**investigar**)

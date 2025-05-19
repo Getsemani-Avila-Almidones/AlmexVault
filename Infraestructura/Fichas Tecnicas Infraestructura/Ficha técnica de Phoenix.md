@@ -22,22 +22,16 @@
 - **Licencias de software:** [Detalles sobre licencias de sistemas operativos, aplicaciones o servicios que utilice]
 
 ## **2 - 🛜Red y Dirección IP:**
-- **Dirección IP pública/privada:** [IP asignada o rango de IPs]
-- **Configuración de DNS:** [Si aplica, especificar configuración DNS]
-- **Protocolos soportados:** [IPv4, IPv6, DHCP, etc.]
+- **Dirección IP pública/privada:** 
+- **Configuración de DNS:** 
+- **Protocolos soportados:** 
 
-### **2.1 - 🔌Catalogo Puertos Abiertos**
-| **Puerto** | **Protocolo** | **Aplicativo**                    | **Justificación de por que se usa ese puerto** |
-| ---------- | ------------- | --------------------------------- | ---------------------------------------------- |
-| 80         | HTTP          | [Aplicativo que usa la conexión ] |                                                |
-| 443        | HTTPS         |                                   |                                                |
-| 3306       | MySQL         |                                   |                                                |
 
 ## **3 - 🔐Redundancia y Seguridad:**
-- **Fuentes de alimentación redundantes:** [Sí/No]
-- **UPS (sistema de alimentación ininterrumpida):** [Si aplica, especificar capacidad]
-- **Controladores RAID:** [Especificar si incluye un controlador RAID y su configuración]    
-- **Sistemas de seguridad:** [Firewall, cifrado de datos, protección contra ataques DDoS, etc.]
+- **Fuentes de alimentación redundantes:** 
+- **UPS (sistema de alimentación ininterrumpida):**
+- **Controladores RAID:**
+- **Sistemas de seguridad:** 
 
 ## **4 - 💻Máquinas Virtuales y Contenedores:**
 
@@ -51,7 +45,4 @@
 
 ## **5 - 💿Aplicativos (Software Comercial o Legados) Corriendo en el Servidor:**
 
-| **Aplicativo** | **Descripción**                                            | Requisitos | **Propósito**                               | **Notas**                                 |
-| -------------- | ---------------------------------------------------------- | ---------- | ------------------------------------------- | ----------------------------------------- |
-| [Aplicativo]   | [Descripción]                                              | [Notas]    | [Propósito]                                 | [Notas]                                   |
-| **Intranet**   | Plataforma interna de comunicación y gestión de la empresa |            | Comunicación interna, gestión de documentos | Personalizado, accesible solo a empleados |
+
