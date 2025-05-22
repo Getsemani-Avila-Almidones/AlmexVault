@@ -15,10 +15,10 @@ Manipulación de extractos bancarios
  Si los extractos no se elaboran automáticamente a las 8:00 am en Oracle, se debe proceder a cargarlos manualmente.
 ### **Tabla de roles del proceso**
 
-|**Rol**|**Aplicativo**|**Descripción**|**Resultado**|
-|---|---|---|---|
-|Usuario|Excel|Visualiza y verifica el extracto bancario si se ejecuta correctamente|Si se ejecuta correctamente, se ve en ERP|
-|Administrador(sistemas)|Terminal (MOBAXTERM)|Procesa manualmente los extractos bancarios cuando el proceso H2H da error|Genera los lotes (TXT) y el archivo MT940 final|
+| **Rol**                 | **Aplicativo**       | **Descripción**                                                            | **Resultado**                                   |
+| ----------------------- | -------------------- | -------------------------------------------------------------------------- | ----------------------------------------------- |
+| Usuario                 | Excel                | Visualiza y verifica el extracto bancario si se ejecuta correctamente      | Si se ejecuta correctamente, se ve en ERP       |
+| Administrador(sistemas) | Terminal (MOBAXTERM) | Procesa manualmente los extractos bancarios cuando el proceso H2H da error | Genera los lotes (TXT) y el archivo MT940 final |
 
 ---
 
