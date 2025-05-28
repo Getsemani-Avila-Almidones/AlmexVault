@@ -13,15 +13,12 @@ El banco **BBVA** accede al servidor **FTP**, toma los archivos ubicados en la c
 
  
 
-
-
-| **Rol** | **Aplicativo** | **Descripción** | **Resultado** |
-| ------- | -------------- | --------------- | ------------- |
-|         |                |                 |               |
-|         |                |                 |               |
-|         |                |                 |               |
-|         |                |                 |               |
-|         |                |                 |               |
+| **Rol**        | **Aplicativo** | **Descripción**                                   | **Resultado**                      |
+| -------------- | -------------- | ------------------------------------------------- | ---------------------------------- |
+| Jefe de CxP    | Oracle         | Genera los pagos a proveedores                    | Inicio del proceso de pagos        |
+| Sistema Oracle | -              | Deposita archivos en el servidor FTP              | Archivos disponibles para el banco |
+| Servidor FTP   | Scripts        | Renombra y mueve los archivos a la carpeta salida | Archivos listos para el banco      |
+| Banco BBVA     | -              | Accede, valida y procesa los archivos             | Ejecución del pago a proveedores   |
 
 ## **4. Herramientas, Recursos, Plataforma ó Servidor
 - **Plataforma:** Oracle ERP
@@ -30,3 +27,4 @@ El banco **BBVA** accede al servidor **FTP**, toma los archivos ubicados en la c
 - **Carpeta de procesamiento:** Carpeta de salida (para envío a BBVA)
 - **Entidad externa:** BBVA
 ## **5. Indicadores de Éxito
+Correcta ejecución de pago a proveedor

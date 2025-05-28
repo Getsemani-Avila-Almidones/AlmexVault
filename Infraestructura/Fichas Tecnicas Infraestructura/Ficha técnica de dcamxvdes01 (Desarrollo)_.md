@@ -39,7 +39,4 @@ N/A
 N/A
 ## **5 - 💿Aplicativos (Software Comercial o Legados) Corriendo en el Servidor:**
 
-| **Aplicativo** | **Descripción**                                            | Requisitos | **Propósito**                               | **Notas**                                 |
-| -------------- | ---------------------------------------------------------- | ---------- | ------------------------------------------- | ----------------------------------------- |
-| [Aplicativo]   | [Descripción]                                              | [Notas]    | [Propósito]                                 | [Notas]                                   |
-| **Intranet**   | Plataforma interna de comunicación y gestión de la empresa |            | Comunicación interna, gestión de documentos | Personalizado, accesible solo a empleados |
+
