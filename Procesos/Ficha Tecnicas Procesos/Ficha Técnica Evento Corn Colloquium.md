@@ -1,6 +1,6 @@
 ## **1. Identificación del Proceso**
 
-**Nombre:** Evento Corn Colloquium
+Evento Corn Colloquium
 
 ## **2. Finalidad del Proceso**
 

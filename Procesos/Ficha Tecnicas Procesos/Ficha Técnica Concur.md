@@ -1,6 +1,6 @@
 ## **1. Identificación del Proceso
 
-Nombre: Extractos Concur
+ Extractos Concur
 
 ## **2. Finalidad del Proceso
 

@@ -1,6 +1,6 @@
 ## **1. Identificación del Proceso**
 
-**Nombre:** H2H
+H2H
 ## **2. Finalidad del Proceso**
 
 Manipulación de extractos bancarios
