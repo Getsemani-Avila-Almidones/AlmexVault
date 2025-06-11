@@ -1,6 +1,6 @@
 ## **1. Identificación del Proceso**
 
-**Nombre:** Facturación Electrónica
+Facturación Electrónica
 ## **2. Finalidad del Proceso**
 
 Timbrado de documentos fiscales

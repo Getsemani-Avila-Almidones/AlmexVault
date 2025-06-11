@@ -1,6 +1,6 @@
 ## **1. Identificación del Proceso**
 
-**Nombre:** Certificados de Calidad EALMEX
+Certificados de Calidad EALMEX
 ## **2. Finalidad del Proceso**
 
 Generar un precertificado y certificado de calidad al final del proceso de cadena de suministros
