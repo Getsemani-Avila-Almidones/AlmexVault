@@ -47,4 +47,5 @@
 
 ## **5 - 💿Aplicativos (Software Comercial o Legados) Corriendo en el Servidor:**
 
-
+- Api que se utiliza para **facturación**
+	- Descripción funcionamiento: Oracle envía PDF a el servidor de archivos (**[[Ficha técnica de dcamxvfs01 (productivo)]]])

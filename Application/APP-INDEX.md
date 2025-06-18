@@ -52,3 +52,9 @@ Indica si el software fue desarrollado internamente por el equipo de TI de la em
 
 
 
+## (Legado?)
+
+- ![[Pasted image 20250618103749.png]]
+
+> ATEB era nuestro portal de proveedores y validador de facturas de proveedores  antes de Oracle  para la parte o negocio de cuentas por pagar. 
+> Ya no esta en funcionamiento
