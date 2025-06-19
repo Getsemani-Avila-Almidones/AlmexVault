@@ -23,18 +23,24 @@ El día 11 de junio de 2025 se presentaron dos incidencias críticas que afectar
 Como consecuencia, se interrumpió la comunicación entre nuestro ERP (Oracle) y servicios externos, afectando la recepción de extractos contables provenientes de BBVA y la entrega de facturas electrónicas a nuestros clientes mediante una API expuesta en el servidor **Almex05**.
 
 ---
+
 ## 2. Áreas Afectadas
 
 - **Tesorería:** Interrupción en la recepción de extractos contables enviados por BBVA vía FTP.
 - **Facturación:** Fallas en el envío de facturas electrónicas (PDF y XML) a clientes.
+- **Cuentas por Pagar:** Imposibilidad de enviar archivos bancarios a través del FTP corporativo, los cuales son consumidos por BBVA para registrar pagos y otras operaciones en su plataforma.
 
 ---
 
 ## 3. Descripción del Incidente
 
-### 3.1 Tesorería
+### 3.1 Tesorería y Cuentas por Pagar
 
-El equipo de Tesorería reportó que los extractos contables enviados por BBVA no estaban siendo recibidos en el ERP Oracle. La causa raíz fue la inestabilidad en el servicio de **VPN**, que utiliza un túnel sobre la red de Alestra para conectar con el servidor FTP de BBVA. La pérdida de conectividad inhabilitó la transferencia de estos archivos.
+El equipo de Tesorería reportó que los extractos contables enviados por BBVA no estaban siendo recibidos en el ERP Oracle. La causa raíz fue la inestabilidad en el servicio de **VPN**, que utiliza un túnel sobre la red de Alestra para conectar con el servidor FTP corporativo.
+
+Adicionalmente, el área de **Cuentas por Pagar**, que tiene la responsabilidad de **depositar archivos en el mismo FTP**, también se vio afectada. Estos archivos son consumidos directamente por BBVA para registrar operaciones bancarias en su sistema.  
+Durante el incidente, BBVA no pudo acceder al FTP, por lo que **no se reflejaron movimientos ni se procesaron operaciones** originadas desde **Almex** en la plataforma bancaria.
+
 
 > 🔎 **Nota:** Este servicio actualmente está vinculado directamente a la IP de Alestra, sin posibilidad de failover automático.
 
@@ -64,10 +70,12 @@ Durante el corte de fibra, dicha IP fue inaccesible, impidiendo el acceso a la A
 
 ## 5. Acciones Correctivas Inmediatas
 
-- **Tesorería:**  
-    Se evaluó la posibilidad de redireccionar la VPN al proveedor secundario (**TotalPlay**). No obstante, esta medida no fue viable, ya que el servicio de FTP de BBVA está configurado para establecer conexión únicamente con la IP pública proporcionada por **Alestra**, sin utilizar un registro DNS que permitiera flexibilidad.  
-    Como acción a mediano plazo, se encuentra en proceso la migración hacia un nuevo servicio proporcionado por BBVA, denominado **“BBVA – PIVOTE”**, el cual ofrecerá mayor robustez y tolerancia a fallos al permitir configuraciones de redundancia.
-    
+- **Tesorería y Cuentas por Pagar:**  
+  Se evaluó la posibilidad de redireccionar la VPN al proveedor secundario (**TotalPlay**). No obstante, esta medida no fue viable, ya que el servicio de FTP utilizado por BBVA está configurado para establecer conexión únicamente con la IP pública de **Alestra**.  
+  Esto no solo impidió la **recepción de extractos**, sino también el **acceso a archivos generados por Cuentas por Pagar**, provocando una interrupción en los registros bancarios de salidas.
+
+  Como medida a mediano plazo, se encuentra en marcha la migración hacia un nuevo servicio proporcionado por BBVA, denominado **“BBVA – PIVOTE”**, que busca mejorar la disponibilidad y flexibilidad del canal de integración.
+
 - **Facturación:**  
     Se procedió a actualizar los registros DNS en **GoDaddy**, redireccionando la URL de la API pública (`https://www.paamxgdl.com`) hacia las IPs asociadas a **TotalPlay**, con la intención de restablecer la conectividad hacia el servidor **Almex05** y reanudar el envío de comprobantes digitales (PDF, XML).  
     Sin embargo, esta acción **no fue suficiente para mitigar completamente el impacto**, debido a que múltiples elementos del proceso de facturación seguían dependiendo de la red de Alestra y no pudieron resolverse mediante DNS.  
@@ -86,7 +94,7 @@ Respuesta desde 187.189.11.100: bytes=32 tiempo=3ms TTL=126
 ```
 
 ``` bash
-tracert [www.paamxgdl.com](https://www.paamxgdl.com "https://www.paamxgdl.com/")
+$ tracert [www.paamxgdl.com](https://www.paamxgdl.com "https://www.paamxgdl.com/")
 
 Traza a la dirección [www.paamxgdl.com](https://www.paamxgdl.com "https://www.paamxgdl.com/") [187.189.11.100]  
 sobre un máximo de 30 saltos:
